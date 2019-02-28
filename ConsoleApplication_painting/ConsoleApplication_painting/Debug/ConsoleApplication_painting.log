@@ -1,0 +1,12 @@
+﻿  ConsoleApplication_painting.cpp
+d:\vs_project\consoleapplication_painting\consoleapplication_painting\consoleapplication_painting.cpp(294): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\vs_project\consoleapplication_painting\consoleapplication_painting\consoleapplication_painting.cpp(295): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\vs_project\consoleapplication_painting\consoleapplication_painting\consoleapplication_painting.cpp(296): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\vs_project\consoleapplication_painting\consoleapplication_painting\consoleapplication_painting.cpp(671): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\vs_project\consoleapplication_painting\consoleapplication_painting\consoleapplication_painting.cpp(672): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\vs_project\consoleapplication_painting\consoleapplication_painting\consoleapplication_painting.cpp(725): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\vs_project\consoleapplication_painting\consoleapplication_painting\consoleapplication_painting.cpp(726): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\vs_project\consoleapplication_painting\consoleapplication_painting\consoleapplication_painting.cpp(797): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\vs_project\consoleapplication_painting\consoleapplication_painting\consoleapplication_painting.cpp(798): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  ConsoleApplication_painting.vcxproj -> D:\vs_project\ConsoleApplication_painting\Debug\ConsoleApplication_painting.exe
+  ConsoleApplication_painting.vcxproj -> D:\vs_project\ConsoleApplication_painting\Debug\ConsoleApplication_painting.pdb (Full PDB)
